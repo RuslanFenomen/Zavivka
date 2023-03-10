@@ -481,6 +481,10 @@ li {
   left: 15px;
 }
 
+.services__btn-top {
+  display: none;
+}
+
 .services__inner {
   position: relative;
   left: 50%;
